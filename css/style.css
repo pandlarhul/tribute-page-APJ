@@ -1,0 +1,57 @@
+#road-map{
+    color:white;
+    
+  }
+  #btn{
+    background-color:black;
+    color:white;
+    border-radius:10px;
+  }
+  .header {
+    padding: 10px 16px;
+    background: #555;
+    color: #ffffff;
+    
+  }
+  
+  #sidenav{
+    position: fixed;
+    top:0;
+  background: #555;
+  }
+  
+  
+  #main{
+    background-color: black;
+    padding: 16px;
+    color: white;
+    font-family:callibiri;
+  }
+  
+  #title{
+    text-align:center;
+  }
+  #img-caption{
+    font-size:20px;
+    text-align:center;
+  }
+  
+  #img-div{
+  color:white;
+     background-color: black;
+    width:100%;
+  }
+  #image{
+    margin-left: 10%;
+    margin-top: 5%;
+    width:80%;
+    heigh:100%;
+  }
+  #tagline{
+    text-align:center;
+  }
+  #tribute-link:hover{
+    color:#ff0000;
+    background-color:white;
+  }
+  
